@@ -1,0 +1,17 @@
+We’re developing a digital platform to connect potential business buyers and sellers. Similar to Bumble’s model, we’re flipping the traditional approach by having sellers initiate contact with buyers. After a match occurs, we guide both parties through the acquisition process using streamlined workflows and platform tools to modernize a very manual process and ultimately maximize deal success.We want the design language to feel approachable. colors and interface should be inviting for both parties; perhaps even a sense of ease in an already difficult and time-consuming deal process.
+
+Fully design a platform UI for the following. Context: stub out sections of the platform interface to show they exist (settings, profile, navigation, etc.):
+
+●	Separate buyer and seller onboarding questionnaires (this occurs right as signup). Choose any types of questions you want, we are looking more into how you design this overall workflow than the quality of questions. feel free to be unique.
+●	Design buyer profiles that sellers can accept or reject. What essential buyer information would you display on these cards to make it better for sellers to make a decision at a glance? what would this look like expanded as a full profile?
+●	Consider that a potential buyer and seller has matched and now we want to design the platform’s acquisition process to maximize deal completion rates. There are a lot of friction points in this process. Your design should address these friction points. Feel free to integrate AI solution if they are applicable.
+○	For example an AI solution would be something like a financial document analyzer and summarizer.
+
+We are looking for:
+●	Your unique design ability and style. Make sure that you are giving us your best work!
+●	Ability to make sense of business objectives and turn them into effective product designs.
+●	Keen eye on intuitive product flow.
+●	(major bonus) if you have frontend engineering experience.
+
+Deliverables:
+●	Design files (can be pdf, image files)
